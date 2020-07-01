@@ -1,4 +1,4 @@
-# Clustering-
+# Clustering Algorithms
 1, Implementation of five famous clustering algorithms using python: K-means, Hierarchical Agglomerative clustering with MIN approach, density-based, mixture model, and spectral clustering. 
 
 2, Compared these algorithms of their pros and cons.
